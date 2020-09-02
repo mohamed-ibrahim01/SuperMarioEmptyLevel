@@ -1,0 +1,5 @@
+usage: horizontalTileNum, verticalTileNum, tileWidth, tileHeight, textureNum
+100,20,32,32,3
+assets/wall_block32.png
+assets/coin_block32.png
+assets/green_pipe.png
